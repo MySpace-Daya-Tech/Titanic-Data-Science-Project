@@ -56,7 +56,25 @@ Virtual-R-Data-Analyst/
     ├── Report/
     └── Screenshots/
 
-**🔹 Week 2 — Data Visualization and Insight Communication
+📅 Weekly Work
+🔹 Week 1 — Data Cleaning and Preliminary Analysis
+
+The first stage focused on preparing the Titanic dataset for further analysis.
+
+Work performed
+Dataset inspection
+Data structure analysis
+Missing-value identification
+Missing-value treatment
+Data preprocessing
+Variable transformation
+Preliminary statistical analysis
+Summary statistics
+Key outcome
+
+A cleaned and analysis-ready Titanic dataset was prepared for subsequent visualization and statistical modeling.
+
+🔹 Week 2 — Data Visualization and Insight Communication
 
 The second stage focused on communicating patterns and relationships through R-based visualizations.
 
